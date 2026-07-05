@@ -32,6 +32,35 @@ const CERTS = [
     link:"/certs/pythonessential2.jpeg",
   },
   {
+    title: "SQL and Relational Databases",
+    org: "CognitiveClass.ai",
+    date: "2026",
+    img: "/certs/IBM Skills Network DB0101EN Certificate _ Cognitive Class_page-0001.jpg",
+    link: "/certs/IBM Skills Network DB0101EN Certificate _ Cognitive Class_page-0001.jpg",
+  },
+  {
+    title: "Industrial Networking Essentials",
+    org: "Cisco",
+    date: "2026",
+    img: "/certs/Industrial_Networking_Essentials_certificate_satyammaurya635635-gmail-com_93179774-7296-46d2-9940-442f26cbe7e0_page-0001.jpg",
+    link: "/certs/Industrial_Networking_Essentials_certificate_satyammaurya635635-gmail-com_93179774-7296-46d2-9940-442f26cbe7e0_page-0001.jpg",
+  },
+  {
+    title: "Exploring Network with Cisco Packet Tracer",
+    org: "Cisco",
+    date: "2026",
+    img: "/certs/Exploring_Networking_with_Cisco_Packet_Tracer_certificate_satyammaurya635635-gmail-com_0d4a84a6-021e-4b62-a514-666aed5a31f5_page-0001.jpg",
+    link: "/certs/Exploring_Networking_with_Cisco_Packet_Tracer_certificate_satyammaurya635635-gmail-com_0d4a84a6-021e-4b62-a514-666aed5a31f5_page-0001.jpg",
+  },
+  {
+    title: "Getting Started with Cisco Packet Tracer",
+    org: "Cisco",
+    date: "2026",
+    img: "/certs/Getting_Started_with_Cisco_Packet_Tracer_certificate_satyammaurya635635-gmail-com_7716ffa8-ae08-4ac9-a4c9-99f6f6eca951_page-0001.jpg",
+    link: "/certs/Getting_Started_with_Cisco_Packet_Tracer_certificate_satyammaurya635635-gmail-com_7716ffa8-ae08-4ac9-a4c9-99f6f6eca951_page-0001.jpg",
+  },
+  
+  {
     title: "Hackfor green bharat certificate",
     org: "Tech Master India",
     date: "2025",
