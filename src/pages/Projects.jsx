@@ -20,12 +20,12 @@ const PROJECTS = [
     code: "https://github.com/satyammaurya999/gocart-main",
   },
   {
-    title: "Quickapp",
-    desc: "Real-time chat application handling 100+ concurrent users and 10k+ messages/day. Built with WebSocket (Socket.IO) for 90% faster message transmission. 🚧 Under Development",
-    ss: "https://images.unsplash.com/photo-1611606063065-ee7946f0787a?w=800&h=500&fit=crop",
+    title: "CHATLY",
+    desc: "Real-time chat application handling 100+ concurrent users and 10k+ messages/day. Built with WebSocket (Socket.IO) for 90% faster message transmission.",
+    ss: "/gallery/{DB413633-DD5D-4894-A5D9-59759D26D425}.png",
     tech: ["React", "Node.js", "Express", "MongoDB", "Socket.IO", "JWT"],
-    live: "#",
-    code: "#",
+    live: "https://chat.codesatyam.in/",
+    code: "https://github.com/satyammaurya999/chatting-app",
   },
   {
     title: "🤖 AI Interview Simulator",
