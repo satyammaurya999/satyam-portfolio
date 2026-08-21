@@ -30,7 +30,7 @@ const PROJECTS = [
   {
     title: "🤖 AI Interview Simulator",
     desc: "An AI-powered Interview Simulator developed as a college hackathon project, enabling users to practice role-based interviews with AI-generated questions and real-time interaction for interview preparation.",
-    ss: "/certs/interviewsimulator.png",
+    ss: "/gallery/ai-interviewer-photo.png",
     tech: ["React.js","JavaScript" , "Node.js ", "Express.js ", "Tailwind CSS "," Hugging Face API ","JSON ","Streamlit"],
     live: "https://ai-interviewer-pi-five.vercel.app/", // TODO: Add your live demo URL
     code: "https://github.com/satyammaurya999/ai-interviewer",
